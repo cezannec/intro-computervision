@@ -1,6 +1,6 @@
 [//]: # (Image References)
 
-[image1]: ./images/conv_layers.png "CNN Layers"
+[image1]: ./images/CNN_all__layers.png "CNN Layers"
 
 # Introduction to Computer Vision
 This repository contains notebooks for learning about how convolutional neural networks (CNN's) can be used to create an image classifier given a set of training data. The notebooks include examples that are meant for learning about the individual layers that make up a convolutional neural network, and an example clothing classifier that is trained on the [FashionMNIST](https://www.kaggle.com/zalando-research/fashionmnist) dataset.
@@ -88,7 +88,7 @@ cd intro-computervision
 	activate cv-env
 	```
 	
-	At this point your command line should look something like: `(cv-nd) <User>:intro-computervision <user>$`. The `(cv-nd)` indicates that your environment has been activated, and you can proceed with further package installations.
+	At this point your command line should look something like: `(cv-env) <User>:intro-computervision <user>$`. The `(cv-env)` indicates that your environment has been activated, and you can proceed with further package installations.
 
 3. Install PyTorch and torchvision; this should install the latest version of PyTorch.
 	
